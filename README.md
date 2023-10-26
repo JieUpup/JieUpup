@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JieUpup
 - 👀 I’m interested in reading and garden.
 - 🌱 I’m Computer Science student in Northeastern University.
-- 💞️ I’m looking to collaborate on some projects or leetcode.
+- 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me ? feel free to send message or email to my acount.
 
 <!---
