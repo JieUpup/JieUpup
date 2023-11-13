@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JieUpup
-- 👀 I’m interested in reading and garden.
-- 🌱 I’m Computer Science student in Northeastern University.
+- 👀 I’m interested in reading, coding, table tennie and writing.
+- 🌱 I’m Computer Science student at Northeastern University.
 - 💞️ I’m looking to collaborate on some projects.
-- 📫 How to reach me ? feel free to send message or email to my acount.
+- 📫 How to reach me ? feel free to send message or email to my account.
 
 <!---
 JieUpup/JieUpup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
