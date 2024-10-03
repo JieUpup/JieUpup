@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JieUpup
-- 👀 I’m interested in reading, coding, table tennie and writing.
-- 🌱 I’m Computer Science student at Northeastern University.
+- 👀 I’m interested in reading, coding, learning, table tennie and writing.
+- 🌱 I was Computer Science student at Northeastern University before.
+- Now, I am  PhD student focus on AI in Dartmouth College at Tayer School.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me ? feel free to send message or email to my account.
 
